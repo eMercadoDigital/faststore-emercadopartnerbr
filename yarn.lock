@@ -1171,10 +1171,10 @@
     fs-extra "^10.1.0"
     path "^0.12.7"
 
-"@faststore/components@^3.0.68":
-  version "3.0.68"
-  resolved "https://registry.yarnpkg.com/@faststore/components/-/components-3.0.68.tgz#a4b6cd93ec089ee257d441c6a16a59d3cc79b725"
-  integrity sha512-fUwQDz9KA6O7TFl8D76uCsOIydv74ZAL2CYA+oZsczQQsJ60ylbRpj7/l2YwJjmAwRtIOuDrzDyGX/sj7SekuA==
+"@faststore/components@^3.0.68", "@faststore/components@^3.0.95":
+  version "3.0.95"
+  resolved "https://registry.yarnpkg.com/@faststore/components/-/components-3.0.95.tgz#83d7e0912447ac1298821815c70785738b3025be"
+  integrity sha512-tbfgvwpJbKeTRet28Ldkhbe5H5coZGMOc4XWs2W//rdhi525JKiiCJ4qDgX0Ttn0ZR0tf+CMVc88x80YHVg6Xw==
 
 "@faststore/core@3.0.70":
   version "3.0.70"
@@ -1246,12 +1246,12 @@
   dependencies:
     idb-keyval "^5.1.3"
 
-"@faststore/ui@^3.0.68":
-  version "3.0.68"
-  resolved "https://registry.yarnpkg.com/@faststore/ui/-/ui-3.0.68.tgz#45403ce803845bfdc19eb53796850939f4d4a491"
-  integrity sha512-DLl5ldAWFAuBbXDqev4qlwET5gGD07OCvz6RJquLUPA5cf9KRK/j/f1+eIIT5o8M14fN8htV8maP68MD/MS8/w==
+"@faststore/ui@^3.0.68", "@faststore/ui@^3.0.95":
+  version "3.0.95"
+  resolved "https://registry.yarnpkg.com/@faststore/ui/-/ui-3.0.95.tgz#a45dc22a4b3614d8c3ad77f8a4fd937882bba2a5"
+  integrity sha512-ljKan6dVR2uAgzW14qBa5bqW80Yoc3WxE4ZYzdPbJ9ZtmrRGaWX4pk1ioUa1D/8SKgD6cZTDtM0Y6K6JecshDA==
   dependencies:
-    "@faststore/components" "^3.0.68"
+    "@faststore/components" "^3.0.95"
     include-media "^1.4.10"
     modern-normalize "^1.1.0"
     react-swipeable "^7.0.0"
